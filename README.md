@@ -13,6 +13,3 @@ Simulates a real-time ETL pipeline for collecting, processing, and analyzing soc
 pip install -r requirements.txt
 python app.py
 ```
-
-## Live Demo
-Coming soon on [Hugging Face Spaces](https://huggingface.co/spaces)
